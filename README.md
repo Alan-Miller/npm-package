@@ -1,7 +1,7 @@
 # npm package
 
 ## Symlink
-A symlink to the package folder allows the module to be loaded from anywhere on the computer. The linked module can then be required in a project from anywhere on the computer. Any change made in the module will then be automatically reflected in the project.
+A symlink to the package folder allows the module to be loaded from anywhere on the computer. This is convenient during development. The linked module can then be required in a project from anywhere on the computer. Any change made in the module will then be automatically reflected in the project.
 
 #### **Create symlink**
 - In folder where package is:
